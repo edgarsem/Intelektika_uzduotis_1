@@ -1,0 +1,17 @@
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\bin\Debug\net6.0-windows\Algoritmu_uzduotis.exe
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\bin\Debug\net6.0-windows\Algoritmu_uzduotis.deps.json
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\bin\Debug\net6.0-windows\Algoritmu_uzduotis.runtimeconfig.json
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\bin\Debug\net6.0-windows\Algoritmu_uzduotis.dll
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\bin\Debug\net6.0-windows\Algoritmu_uzduotis.pdb
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.Form1.resources
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.AssemblyInfo.cs
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.dll
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\refint\Algoritmu_uzduotis.dll
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.pdb
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\Algoritmu_uzduotis.genruntimeconfig.cache
+C:\Users\maxim\source\repos\Algoritmu_uzduotis\obj\Debug\net6.0-windows\ref\Algoritmu_uzduotis.dll
